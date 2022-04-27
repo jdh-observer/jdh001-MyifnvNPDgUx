@@ -1,1 +1,58 @@
-ID;Title;Author;Country;Date;Decade;BlocChristiansenID;The Ideological Development of Democratic Socialism in Denmark ;Ernst Christiansen;Denmark;1958;1950s;NordicElsterID;The Ideological Development of Democratic Socialism in Norway;Torolf Elster;Norway;1955;1950s;NordicFreyID;The Ideological Development of Democratic Socialism in Germany;Richard Freyh;Germany;1957;1950s;ContinentalGaitskellID;The Ideological Development of Democratic Socialism in Great Britain;Hugh Gaitskell;Britain;1955;1950s;BritishKautskyID;The Ideological Development of Democratic Socialism in Austria;Benedikt Kautsky;Austria;1956;1950s;ContinentalOittinenID;The Ideological Development of Democratic Socialism in Finalnd;R.H.Oittinen;Finland;1957;1950s;NordicSeverinID;The Ideological Development of Democratic Socialism in Sweden;Frans Severin;Sweden;1956;1950s;NordicSW12;Notes of the quarter;Editorial Staff;Editors;1947;1940s;EditorsSW13;An Indian Plan for socialism;Jayaprakash Narayan;India;1947;1940s;MarginalSW14;Czechoslovakia on the road to socialism;Czechoslovakia on the road to socialism;Czechoslovakia;1947;1940s;LeftistSW15;Canada and the CCF;David Lewis;Canada;1947;1940s;MarginalSW16;American labour trends;Philip Taft;USA;1947;1940s;MarginalSW17;The Dutch Labour Party;Koos Vorrink;Netherlands;1947;1940s;ContinentalSW21;Notes of the quarter;Editorial Staff;Editors;1947;1940s;EditorsSW22;A new Socialist International;Max Buset;Belgium;1947;1940s;ContinentalSW23;Italy – Political battleground;An Italian Correspondent ;Italy;1947;1940s;LeftistSW24;The Bund – A Jewish socialist movement;Lujan Blit;Poland-Bund;1947;1940s;MarginalSW25;Correspondence;A student of America;USA;1947;1940s;MarginalSW26;Britain meets the crisis;A British Correspondent;Britain;1947;1940s;BritishSW27;Social Democracy in Sweden since the war;Karl Fredriksson;Sweden;1947;1940s;NordicSW28;The radical democratic party of India;V.B.Karnik;India;1947;1940s;MarginalSW31;Notes of the quarter;Editorial Staff;Editors;1947;1940s;EditorsSW32;Finland since the armistice;Vaino Leskinen;Finland;1947;1940s;NordicSW33;The United States and socialism;Victor Larock;Belgium;1947;1940s;ContinentalSW34;Poland’s Three-year plan;A Polish correspondent;Poland;1947;1940s;LeftistSW35;Socialism in Latin-America;Robert J.Alexander;USA;1947;1940s;MarginalSW36;Imperialism – New Style;J.D.Krivine;Britain;1947;1940s;BritishSW37;The Revival of German Social-Democracy;Erich Ollenhauer;Germany;1947;1940s;ContinentalSW41;Notes of the quarter;Editorial Staff;Editors;1948;1940s;EditorsSW42;International socialist co-operation;Vilém Bernard;Czechoslovakia;1948;1940s;LeftistSW43;The Third Force;Oskar Pollak;Austria;1948;1940s;ContinentalSW44;Holland’s Economic position;G.M.Nederhorst;Netherlands;1948;1940s;ContinentalSW45;The Socialist Movement in Greece;A.Gregoroyannis;Greece;1948;1940s;MarginalSW46;Social revolution in Hungary;A Hungarian correspondent;Hungary;1948;1940s;LeftistSW51;Notes of the quarter;Editorial Staff;Editors;1948;1940s;EditorsSW52;The problem of the Ruhr;Leon Blum;France;1948;1940s;ContinentalSW53;Nationalisation in Holland;G.M.Nederhorst;Netherlands;1948;1940s;ContinentalSW54;European unity and European reconstruction;Cerilo Spinelli;Italy;1948;1940s;ContinentalSW55;Spanish socialists fight on;Rodolfo Llopis;Spain;1948;1940s;MarginalSW56;The last months of social democracy in Hungary;Antal Ban;Hungary;1948;1940s;MarginalSW61;Berlin - City of decision;Executive Committee of the SPD;Germany;1948;1940s;ContinentalSW62;International socialist planning;G.M.Nederhorst;Netherlands;1948;1940s;ContinentalSW63;Socialism and planning in Austria;Karl Waldbrunner;Austria;1948;1940s;ContinentalSW64;Norway since liberation;Haakon Lie;Norway;1948;1940s;NordicSW65;Denmark’s economic position;Jorgen Paldam;Denmark;1948;1940s;NordicSW66;Labour’s Contribution to international understanding;Mark Starr;USA;1948;1940s;MarginalSW67;The high cost of occupation;Erich Labunde;Germany;1948;1940s;ContinentalSW68;The suppression of the Czechoslovak Social Democratic Party;Vilém Bernard;Czechoslovakia;1948;1940s;MarginalSW71;Notes of the quarter;Editorial Staff;Editors;1948;1940s;EditorsSW72;Labour’s Colonial Policy;H.D.Hughes;Britain;1948;1940s;BritishSW73;French policy in Indo-China;Georges Brutelle;France;1948;1940s;ContinentalSW74;Berlin fights for freedom;Kurt Mattick;Germany;1948;1940s;ContinentalSW75;Some aspects of Western Union;Jean Weiller;France;1948;1940s;ContinentalSW76;Austria’s Economic Future;Karl Waldbrunner;Austria;1948;1940s;ContinentalSW77;Economic Development in Iceland;Gylfi Gislason;Iceland;1948;1940s;NordicTexcierID;The Ideological Development of Democratic Socialism in France;Jean Texcier;France;1956;1950s;ContinentalValianiID;The Ideological Development of Democratic Socialism in Italy;Leo Valiani;Italy;1955;1950s;Continental
+ID;Title;Author;Country;Date;Decade;Bloc;Word_Count
+ChristiansenID;The Ideological Development of Democratic Socialism in Denmark ;Ernst Christiansen;Denmark;1958;1950s;Nordic;8256
+ElsterID;The Ideological Development of Democratic Socialism in Norway;Torolf Elster;Norway;1955;1950s;Nordic;12119
+FreyID;The Ideological Development of Democratic Socialism in Germany;Richard Freyh;Germany;1957;1950s;Continental;11237
+GaitskellID;The Ideological Development of Democratic Socialism in Great Britain;Hugh Gaitskell;Britain;1955;1950s;British;15177
+KautskyID;The Ideological Development of Democratic Socialism in Austria;Benedikt Kautsky;Austria;1956;1950s;Continental;10306
+OittinenID;The Ideological Development of Democratic Socialism in Finalnd;R.H.Oittinen;Finland;1957;1950s;Nordic;8806
+SeverinID;The Ideological Development of Democratic Socialism in Sweden;Frans Severin;Sweden;1956;1950s;Nordic;16408
+SW12;Notes of the quarter;Editorial Staff;Editors;1947;1940s;Editors;3495
+SW13;An Indian Plan for socialism;Jayaprakash Narayan;India;1947;1940s;Marginal;3177
+SW14;Czechoslovakia on the road to socialism;Czechoslovakia on the road to socialism;Czechoslovakia;1947;1940s;Leftist;2213
+SW15;Canada and the CCF;David Lewis;Canada;1947;1940s;Marginal;2684
+SW16;American labour trends;Philip Taft;USA;1947;1940s;Marginal;2413
+SW17;The Dutch Labour Party;Koos Vorrink;Netherlands;1947;1940s;Continental;1181
+SW21;Notes of the quarter;Editorial Staff;Editors;1947;1940s;Editors;1227
+SW22;A new Socialist International;Max Buset;Belgium;1947;1940s;Continental;1676
+SW23;Italy – Political battleground;An Italian Correspondent ;Italy;1947;1940s;Leftist;2461
+SW24;The Bund – A Jewish socialist movement;Lujan Blit;Poland-Bund;1947;1940s;Marginal;1766
+SW25;Correspondence;A student of America;USA;1947;1940s;Marginal;492
+SW26;Britain meets the crisis;A British Correspondent;Britain;1947;1940s;British;2036
+SW27;Social Democracy in Sweden since the war;Karl Fredriksson;Sweden;1947;1940s;Nordic;1921
+SW28;The radical democratic party of India;V.B.Karnik;India;1947;1940s;Marginal;1762
+SW31;Notes of the quarter;Editorial Staff;Editors;1947;1940s;Editors;927
+SW32;Finland since the armistice;Vaino Leskinen;Finland;1947;1940s;Nordic;2762
+SW33;The United States and socialism;Victor Larock;Belgium;1947;1940s;Continental;2090
+SW34;Poland’s Three-year plan;A Polish correspondent;Poland;1947;1940s;Leftist;1539
+SW35;Socialism in Latin-America;Robert J.Alexander;USA;1947;1940s;Marginal;2078
+SW36;Imperialism – New Style;J.D.Krivine;Britain;1947;1940s;British;2065
+SW37;The Revival of German Social-Democracy;Erich Ollenhauer;Germany;1947;1940s;Continental;2750
+SW41;Notes of the quarter;Editorial Staff;Editors;1948;1940s;Editors;1599
+SW42;International socialist co-operation;Vilém Bernard;Czechoslovakia;1948;1940s;Leftist;3316
+SW43;The Third Force;Oskar Pollak;Austria;1948;1940s;Continental;2551
+SW44;Holland’s Economic position;G.M.Nederhorst;Netherlands;1948;1940s;Continental;1922
+SW45;The Socialist Movement in Greece;A.Gregoroyannis;Greece;1948;1940s;Marginal;1961
+SW46;Social revolution in Hungary;A Hungarian correspondent;Hungary;1948;1940s;Leftist;1675
+SW51;Notes of the quarter;Editorial Staff;Editors;1948;1940s;Editors;1173
+SW52;The problem of the Ruhr;Leon Blum;France;1948;1940s;Continental;1688
+SW53;Nationalisation in Holland;G.M.Nederhorst;Netherlands;1948;1940s;Continental;2510
+SW54;European unity and European reconstruction;Cerilo Spinelli;Italy;1948;1940s;Continental;4109
+SW55;Spanish socialists fight on;Rodolfo Llopis;Spain;1948;1940s;Marginal;2940
+SW56;The last months of social democracy in Hungary;Antal Ban;Hungary;1948;1940s;Marginal;1634
+SW61;Berlin - City of decision;Executive Committee of the SPD;Germany;1948;1940s;Continental;814
+SW62;International socialist planning;G.M.Nederhorst;Netherlands;1948;1940s;Continental;3377
+SW63;Socialism and planning in Austria;Karl Waldbrunner;Austria;1948;1940s;Continental;2047
+SW64;Norway since liberation;Haakon Lie;Norway;1948;1940s;Nordic;1705
+SW65;Denmark’s economic position;Jorgen Paldam;Denmark;1948;1940s;Nordic;1967
+SW66;Labour’s Contribution to international understanding;Mark Starr;USA;1948;1940s;Marginal;2383
+SW67;The high cost of occupation;Erich Labunde;Germany;1948;1940s;Continental;2175
+SW68;The suppression of the Czechoslovak Social Democratic Party;Vilém Bernard;Czechoslovakia;1948;1940s;Marginal;821
+SW71;Notes of the quarter;Editorial Staff;Editors;1948;1940s;Editors;712
+SW72;Labour’s Colonial Policy;H.D.Hughes;Britain;1948;1940s;British;3309
+SW73;French policy in Indo-China;Georges Brutelle;France;1948;1940s;Continental;2500
+SW74;Berlin fights for freedom;Kurt Mattick;Germany;1948;1940s;Continental;1304
+SW75;Some aspects of Western Union;Jean Weiller;France;1948;1940s;Continental;2636
+SW76;Austria’s Economic Future;Karl Waldbrunner;Austria;1948;1940s;Continental;1704
+SW77;Economic Development in Iceland;Gylfi Gislason;Iceland;1948;1940s;Nordic;2813
+TexcierID;The Ideological Development of Democratic Socialism in France;Jean Texcier;France;1956;1950s;Continental;14443
+ValianiID;The Ideological Development of Democratic Socialism in Italy;Leo Valiani;Italy;1955;1950s;Continental;10428
