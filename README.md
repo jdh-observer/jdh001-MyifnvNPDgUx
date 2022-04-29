@@ -1,6 +1,6 @@
 # Taking the Measure of Social Democracy: Exploring the Ideology of the Socialist International through Topic Modelling
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jdh-observer/jdh001-MyifnvNPDgUx/HEAD?filepath=taking-the-measure-of-social-democracy-anonymous.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jdh-observer/jdh001-MyifnvNPDgUx/HEAD?filepath=taking-the-measure-of-social-democracy.ipynb)
 
 At the root:
 
